@@ -7,7 +7,6 @@
 
 [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user?specialization=google-it-support)
 
-[System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services?
-specialization=google-it-support)
+[System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services?specialization=google-it-support)
 
 [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security?specialization=google-it-support)
